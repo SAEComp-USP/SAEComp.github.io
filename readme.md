@@ -1,4 +1,4 @@
 # SAEComp's site
 
-[Site] (https://saecomp-usp.github.io/SAEComp.github.io/)
-[Manual_bixo] (https://saecomp-usp.github.io/SAEComp.github.io/bixo/index.html)
+[Site](https://saecomp-usp.github.io/SAEComp.github.io/)
+[Manual do Bixo](https://saecomp-usp.github.io/SAEComp.github.io/bixo/index.html)

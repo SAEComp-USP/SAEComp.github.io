@@ -1,4 +1,4 @@
-<h1 align="center" style="color:lightgreen;background-color:black">[Site da Saecomp]</h1>
+<h1 align="center" style="color:lightgreen;background-color:black">Site da Saecomp</h1>
 
 <h2 align="center"> 
 

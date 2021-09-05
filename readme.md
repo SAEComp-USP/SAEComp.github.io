@@ -2,9 +2,9 @@
 
 <h2 align="center"> 
 
-[Site](https://saecomp-usp.github.io/SAEComp.github.io/)
+[Site](https://saecomp.github.io)
 
-[Manual do Bixo](https://saecomp-usp.github.io/SAEComp.github.io/bixo/index.html) </h2>
+[Manual do Bixo](https://saecomp.github.io/bixo/index.html) </h2>
 
 <p align="center">
     <a href="https://github.com/SAEComp/SAEComp.github.io/commits/main">
